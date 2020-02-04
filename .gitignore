@@ -1,0 +1,5 @@
+/.metadata/
+/.vs
+/vertx/.settings
+/example/.settings
+/camel/.settings
